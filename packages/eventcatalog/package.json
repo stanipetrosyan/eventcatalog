@@ -1,6 +1,6 @@
 {
   "name": "@eventcatalog/core",
-  "version": "1.0.6",
+  "version": "1.2.7",
   "publishConfig": {
     "access": "public"
   },
@@ -16,7 +16,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@asyncapi/react-component": "1.0.0-next.35",
+    "@asyncapi/react-component": "^1.2.13",
     "@headlessui/react": "^1.4.2",
     "@heroicons/react": "^1.0.5",
     "@mdx-js/react": "^1.6.22",
@@ -36,7 +36,7 @@
     "fs-extra": "^10.0.0",
     "gray-matter": "^4.0.3",
     "lodash.debounce": "^4.0.8",
-    "mermaid": "10.3.0",
+    "mermaid": "10.9.0",
     "next": "^12.1.0",
     "next-mdx-remote": "^3.0.8",
     "react": "17.0.2",
@@ -44,7 +44,7 @@
     "react-flow-renderer": "^9.7.3",
     "react-force-graph-3d": "^1.21.10",
     "react-syntax-highlighter": "^15.4.5",
-    "swagger-ui-react": "^5.1.0"
+    "swagger-ui-react": "5.10.5"
   },
   "devDependencies": {
     "@eventcatalog/types": "0.4.2",

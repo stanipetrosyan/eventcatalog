@@ -1,5 +1,79 @@
 # @eventcatalog/core
 
+## 1.2.7
+
+### Patch Changes
+
+- [`65aa33d`](https://github.com/boyney123/eventcatalog/commit/65aa33d618b9f415768554bb85a926c1f1913698) [#510](https://github.com/boyney123/eventcatalog/pull/510) Thanks [@boyney123](https://github.com/boyney123)! - Update mermaid version to latest
+
+## 1.2.6
+
+### Patch Changes
+
+- [`1fce9a2`](https://github.com/boyney123/eventcatalog/commit/1fce9a298ff1820056fcbc4dc75cfd6f18535f60) [#499](https://github.com/boyney123/eventcatalog/pull/499) Thanks [@marciovmartins](https://github.com/marciovmartins)! - feat: add search via query parameter for events, services and domains (#498)
+
+## 1.2.5
+
+### Patch Changes
+
+- [`56b9f0d`](https://github.com/boyney123/eventcatalog/commit/56b9f0daefde6cba75b68c4a5a33742376b540dd) [#485](https://github.com/boyney123/eventcatalog/pull/485) Thanks [@dreglad](https://github.com/dreglad)! - fix: (#484) ensure link exists before opening link in visualizer
+
+- [`56b9f0d`](https://github.com/boyney123/eventcatalog/commit/56b9f0daefde6cba75b68c4a5a33742376b540dd) [#485](https://github.com/boyney123/eventcatalog/pull/485) Thanks [@dreglad](https://github.com/dreglad)! - fix: (#484) ensure link exists before opening link in visualizer.
+
+## 1.2.4
+
+### Patch Changes
+
+- [`821a1a7`](https://github.com/boyney123/eventcatalog/commit/821a1a7553dbfebb6793923d1e49a81fee27826d) [#482](https://github.com/boyney123/eventcatalog/pull/482) Thanks [@WaYdotNET](https://github.com/WaYdotNET)! - fix: visualization of asyncapi: 3.0.0 file
+
+## 1.2.3
+
+### Patch Changes
+
+- [`c2faad3`](https://github.com/boyney123/eventcatalog/commit/c2faad32c756589f4e11e82b7a5b659257e6b98b) [#480](https://github.com/boyney123/eventcatalog/pull/480) Thanks [@boyney123](https://github.com/boyney123)! - fix: bug when copy styles over
+
+## 1.2.2
+
+### Patch Changes
+
+- [`e8846cb`](https://github.com/boyney123/eventcatalog/commit/e8846cb66620581e6cc33a0c8d36ddac912c78b9) [#477](https://github.com/boyney123/eventcatalog/pull/477) Thanks [@boyney123](https://github.com/boyney123)! - feat - fixing copy over
+
+## 1.2.1
+
+### Patch Changes
+
+- [`65a46b1`](https://github.com/boyney123/eventcatalog/commit/65a46b1ecea14837f9cbfa5e66ba3b369f36646a) [#475](https://github.com/boyney123/eventcatalog/pull/475) Thanks [@boyney123](https://github.com/boyney123)! - feat - copy over styles on dev and build
+
+## 1.2.0
+
+### Minor Changes
+
+- [`59fc853`](https://github.com/boyney123/eventcatalog/commit/59fc853878b1e3c5413f7c6fd5bf982b30165693) [#473](https://github.com/boyney123/eventcatalog/pull/473) Thanks [@boyney123](https://github.com/boyney123)! - feat - added ability to add css overrides
+
+## 1.1.2
+
+### Patch Changes
+
+- [`b08f273`](https://github.com/boyney123/eventcatalog/commit/b08f2733b8f6cfea8b89e0708f3ad88bc2e9903f) [#470](https://github.com/boyney123/eventcatalog/pull/470) Thanks [@boyney123](https://github.com/boyney123)! - fix - fixed build with swagger version
+
+## 1.1.1
+
+### Patch Changes
+
+- [`7eb8c93`](https://github.com/boyney123/eventcatalog/commit/7eb8c93a2f13088e45c725dc18699e4f66bdf2c5) [#462](https://github.com/boyney123/eventcatalog/pull/462) Thanks [@boyney123](https://github.com/boyney123)! - fix - copy config file on build
+
+## 1.1.0
+
+### Minor Changes
+
+- [`4b34273`](https://github.com/boyney123/eventcatalog/commit/4b34273931e141a651c0a56e1bc6fba5543869eb) [#447](https://github.com/boyney123/eventcatalog/pull/447) Thanks [@rberger](https://github.com/rberger)! - Force the dependency trim to be version 0.0.3 with a resolution to eliminate a high vulnerability
+
+## 1.0.7
+
+### Patch Changes
+
+- [`63abb59`](https://github.com/boyney123/eventcatalog/commit/63abb596bb2a63caad6349d93b201bac01434f79) [#445](https://github.com/boyney123/eventcatalog/pull/445) Thanks [@boyney123](https://github.com/boyney123)! - fix- build for typescript and react types
+
 ## 1.0.6
 
 ### Patch Changes

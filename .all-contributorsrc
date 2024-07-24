@@ -293,6 +293,60 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "kimrejstrom",
+      "name": "Kim Rejström",
+      "avatar_url": "https://avatars.githubusercontent.com/u/26428365?v=4",
+      "profile": "https://github.com/kimrejstrom",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "cgabard",
+      "name": "Christophe Gabard",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6103932?v=4",
+      "profile": "https://github.com/cgabard",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "WaYdotNET",
+      "name": "Carlo Bertini",
+      "avatar_url": "https://avatars.githubusercontent.com/u/197466?v=4",
+      "profile": "http://www.waydotnet.com",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "dreglad",
+      "name": "David Regla",
+      "avatar_url": "https://avatars.githubusercontent.com/u/50302?v=4",
+      "profile": "https://github.com/dreglad",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "marciovmartins",
+      "name": "Marcio Vinicius",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6377735?v=4",
+      "profile": "https://blogdomarcioweb.wordpress.com/",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "danielcastill0",
+      "name": "Daniel Andres Castillo Ardila",
+      "avatar_url": "https://avatars.githubusercontent.com/u/40574235?v=4",
+      "profile": "https://github.com/danielcastill0",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,

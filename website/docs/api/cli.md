@@ -1,5 +1,5 @@
 ---
-id: cli
+sidebar_position: 1
 ---
 
 # CLI
@@ -20,11 +20,9 @@ Once your catalog is bootstrapped, the source will contain the EventCatalog scri
 }
 ```
 
-## Index {#index}
-
 import TOCInline from "@theme/TOCInline"
 
-<TOCInline toc={toc[1].children}/>
+<TOCInline toc={toc} minHeadingLevel={3}/>
 
 ## EventCatalog CLI commands {#eventcatalog-cli-commands}
 

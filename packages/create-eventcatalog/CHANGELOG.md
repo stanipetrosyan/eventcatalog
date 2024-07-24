@@ -1,5 +1,35 @@
 # @eventcatalog/create-eventcatalog
 
+## 1.2.2
+
+### Patch Changes
+
+- [`c2faad3`](https://github.com/boyney123/eventcatalog/commit/c2faad32c756589f4e11e82b7a5b659257e6b98b) [#480](https://github.com/boyney123/eventcatalog/pull/480) Thanks [@boyney123](https://github.com/boyney123)! - fix: bug when copy styles over
+
+## 1.2.1
+
+### Patch Changes
+
+- [`e8846cb`](https://github.com/boyney123/eventcatalog/commit/e8846cb66620581e6cc33a0c8d36ddac912c78b9) [#477](https://github.com/boyney123/eventcatalog/pull/477) Thanks [@boyney123](https://github.com/boyney123)! - feat - fixing copy over
+
+## 1.2.0
+
+### Minor Changes
+
+- [`59fc853`](https://github.com/boyney123/eventcatalog/commit/59fc853878b1e3c5413f7c6fd5bf982b30165693) [#473](https://github.com/boyney123/eventcatalog/pull/473) Thanks [@boyney123](https://github.com/boyney123)! - feat - added ability to add css overrides
+
+## 1.1.1
+
+### Patch Changes
+
+- [`bea7786`](https://github.com/boyney123/eventcatalog/commit/bea778695343e768488734a494e84f0dae692ae0) [#451](https://github.com/boyney123/eventcatalog/pull/451) Thanks [@boyney123](https://github.com/boyney123)! - fix: fixing TypeScript version on new catalogs to v5 from v4
+
+## 1.1.0
+
+### Minor Changes
+
+- [`4b34273`](https://github.com/boyney123/eventcatalog/commit/4b34273931e141a651c0a56e1bc6fba5543869eb) [#447](https://github.com/boyney123/eventcatalog/pull/447) Thanks [@rberger](https://github.com/rberger)! - Force the dependency trim to be version 0.0.3 with a resolution to eliminate a high vulnerability
+
 ## 1.0.4
 
 ### Patch Changes
